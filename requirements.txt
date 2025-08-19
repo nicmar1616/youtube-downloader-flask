@@ -1,4 +1,4 @@
-Flask==2.3.2
+flask==2.3.2
 gunicorn==23.0.0
-yt-dlp>=2025.7.15
 requests==2.31.0
+yt-dlp==2025.1.15
