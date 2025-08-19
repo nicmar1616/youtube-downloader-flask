@@ -1,0 +1,4 @@
+ydl_opts = {
+    "cookiefile": "cookies.txt",
+    "format": "mp4",
+}
